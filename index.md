@@ -1,12 +1,12 @@
 # PLM Help
 
-<table>
+<table width="1200px;">
 <tr>
 <th> Tasks - My Change Requests </th>
 <th> </th>
 </tr>
 <tr>
-<td>
+<td width="500px;">
 
     * Manage change requests that need action or change requests you have submitted
     * Need My Action - broken out into 3 sections
@@ -18,7 +18,7 @@
         - Each requests will have eye that opens Change Request Summary page and a call to action button if you are in applicable group
 
 </td>
-<td>
+<td width="600px;">
 
 <img src="images/Tasks-My-Change-Requests.png">
 
