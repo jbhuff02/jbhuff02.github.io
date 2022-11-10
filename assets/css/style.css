@@ -1,7 +1,4 @@
-@import   
-    "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-    "minima/initialize";
-
+@import "{{ site.theme }}";
 
 .container-lg {
     margin: 50ox 200px;
