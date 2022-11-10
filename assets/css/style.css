@@ -1,3 +1,30 @@
-.container {
+.main-container {
     margin: 50px 200px;
+}
+
+
+.container {
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin-bottom: 60px;
+}
+
+.left-container {
+    float: left;
+    max-width: 650px;
+    width: 650px;
+    margin-right: 30px;
+}
+
+.right-container {
+    width: 700px;
+    img {
+        vertical-align: top;
+        margin-right: 15px;
+        margin-top: 15px;
+    }
+}
+
+.red {
+    color: red;
 }
