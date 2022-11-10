@@ -1,6 +1,6 @@
 # PLM Help
 
-| Tasks - My Change Requests |  ![alt text](images/Tasks-My-Change-Requests.png) |
+| Tasks - My Change Requests |  ![alt text][def] |
 |---|---|
 
 
@@ -24,8 +24,10 @@
 </td>
 <td>
 
-![alt text](images/Tasks-My-Change-Requests.png)
+![alt][def]
 
 </td>
 </tr>
 </table>
+
+[def]: images/Tasks-My-Change-Requests.png
